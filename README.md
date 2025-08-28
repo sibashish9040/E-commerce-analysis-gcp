@@ -61,6 +61,7 @@ flowchart LR
 
 ---
 ## Repository structyre
+```
 E-commerce-analysis-gcp/
 │── README.md
 │── notebooks/
@@ -72,7 +73,8 @@ E-commerce-analysis-gcp/
 │   ├── ingestion.sh
 │   ├── hdfs_upload.sh
 │── data/   (a txt file to get the link of the data)
-│── docs/   
+│── docs/
+```
 
 ---
 

@@ -26,7 +26,6 @@ flowchart LR
   E --> F[Data Integration & Aggregation]
   F --> G[Optimized Spark Jobs]
   G --> H[Processed Data Storage]
-  H --> I[Visualization / BI Tools]
 ```
 --
 
@@ -67,11 +66,7 @@ E-commerce-analysis-gcp/
 │── notebooks/
 │   ├── 01_Data ingestion and exploration.ipynb
 │   ├── 02_Data cleaning and transformation.ipynb
-│   ├── 03_data_transformation.ipynb
-│   ├── 04_data_integration.ipynb
-│── scripts/
-│   ├── ingestion.sh
-│   ├── hdfs_upload.sh
+│   ├── 03_Data integration and aggregation.ipynb
 │── data/   (a txt file to get the link of the data)
 │── docs/
 ```
